@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aace-innovations/static/css/main.a44674ed.css",
+    "main.js": "/aace-innovations/static/js/main.096f37b7.js",
+    "static/js/453.d20fd148.chunk.js": "/aace-innovations/static/js/453.d20fd148.chunk.js",
+    "index.html": "/aace-innovations/index.html",
+    "main.a44674ed.css.map": "/aace-innovations/static/css/main.a44674ed.css.map",
+    "main.096f37b7.js.map": "/aace-innovations/static/js/main.096f37b7.js.map",
+    "453.d20fd148.chunk.js.map": "/aace-innovations/static/js/453.d20fd148.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a44674ed.css",
+    "static/js/main.096f37b7.js"
+  ]
+}
